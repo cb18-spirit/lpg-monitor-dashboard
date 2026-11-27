@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.firebase/
+secrets.h
+*.env
+serviceAccount*.json
